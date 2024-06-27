@@ -14,9 +14,9 @@ This project is a React.js application that displays a chart using chart.js and 
 /// Execute the following commands in Terminal
 
 
----npm install ---------        To install all the dependencies
+npm install        ////To install all the dependencies
 
----npm start   ---------        To start the server and we can see the output in browser
+npm start          ////To start the server and we can see the output in browser
 
 
 
